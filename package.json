@@ -1,0 +1,22 @@
+{
+  "name": "koa-kick-off",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "kick-off-koa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shgtkshruch/koa-kick-off.git"
+  },
+  "author": "shgtkshruch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shgtkshruch/koa-kick-off/issues"
+  },
+  "homepage": "https://github.com/shgtkshruch/koa-kick-off",
+  "dependencies": {
+    "kick-off-koa": "^1.1.4"
+  }
+}
