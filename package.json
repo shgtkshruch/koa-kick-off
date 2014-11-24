@@ -21,6 +21,7 @@
   "homepage": "https://github.com/shgtkshruch/koa-kick-off",
   "dependencies": {
     "kick-off-koa": "^1.1.4",
-    "koa": "^0.13.0"
+    "koa": "^0.13.0",
+    "koa-session": "^2.0.0"
   }
 }
