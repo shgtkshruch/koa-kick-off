@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/shgtkshruch/koa-kick-off",
   "dependencies": {
+    "co-views": "^0.2.0",
+    "ejs": "^1.0.0",
     "kick-off-koa": "^1.1.4",
     "koa": "^0.13.0",
     "koa-session": "^2.0.0"
