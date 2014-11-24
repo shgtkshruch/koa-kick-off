@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "kick-off-koa"
+    "start": "kick-off-koa",
+    "print": "kick-off-koa print",
+    "verify": "kick-off-koa verify"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,7 @@
   },
   "homepage": "https://github.com/shgtkshruch/koa-kick-off",
   "dependencies": {
-    "kick-off-koa": "^1.1.4"
+    "kick-off-koa": "^1.1.4",
+    "koa": "^0.13.0"
   }
 }
