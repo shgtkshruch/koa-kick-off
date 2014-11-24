@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/shgtkshruch/koa-kick-off",
   "dependencies": {
+    "co-body": "^1.0.0",
     "kick-off-koa": "^1.1.4",
     "koa": "^0.13.0"
   }
